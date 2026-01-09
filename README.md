@@ -20,6 +20,22 @@ In many Indian colleges, academic information is unorganized. Students miss upda
 - **Official Academic Calendar:** A color-coded calendar tracking holidays and instructional days.
 - **Admin Panel:** Powerful CRUD (Create, Read, Update, Delete) tools for college administrators.
 
+## 🗺️ Project Roadmap
+This project is developed using a structured issue-tracking workflow. Each feature and bug fix is tracked via GitHub Issues to ensure a robust and organized development process.
+
+### **Current Status**
+- [x] **Initial:** Project Blueprint & Tech Stack Setup
+- [ ] **Issue #1:** Centralized Student Dashboard UI (Placeholder Data)
+- [ ] **Issue #2:** Enhanced Academic Calendar with Event Categorization
+- [ ] **Issue #3:** Fix Profile Icon Navigation (Redirect to Dashboard)
+- [ ] **Issue #4:** Implement Secure Firebase Logout Logic
+- [ ] **Issue #5:** Dynamic User Identity (Name & Email from Auth)
+- [ ] **Issue #6:** Admin Panel with CRUD Functionality for Notices
+- [ ] **Issue #7:** Implementation of Dynamic Collapsible Sidebar
+
+---
+*Note: Checkmarks indicate features that are fully implemented, tested, and pushed to the main branch.*
+
 ## 📸 Screenshots
 *Will be updated soon...stay tuned!*
 > [Dashboard Preview] | [Notice Board Preview]
