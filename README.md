@@ -25,7 +25,7 @@ This project is developed using a structured issue-tracking workflow. Each featu
 
 ### **Current Status**
 - [x] **Initial:** Project Blueprint & Tech Stack Setup
-- [ ] **Issue #1:** Centralized Student Dashboard UI (Placeholder Data)
+- [x] **Issue #1:** Centralized Student Dashboard UI (Placeholder Data)
 - [ ] **Issue #2:** Enhanced Academic Calendar with Event Categorization
 - [ ] **Issue #3:** Fix Profile Icon Navigation (Redirect to Dashboard)
 - [ ] **Issue #4:** Implement Secure Firebase Logout Logic
@@ -37,8 +37,8 @@ This project is developed using a structured issue-tracking workflow. Each featu
 *Note: Checkmarks indicate features that are fully implemented, tested, and pushed to the main branch.*
 
 ## 📸 Screenshots
-*Will be updated soon...stay tuned!*
-> [Dashboard Preview] | [Notice Board Preview]
+> [Dashboard Preview <img width="1363" height="638" alt="Screenshot 2026-01-10 005440" src="https://github.com/user-attachments/assets/cf6bd472-7cce-417b-949f-492c3ae5822b" />
+] | [Notice Board Preview]
 
 ---
 
