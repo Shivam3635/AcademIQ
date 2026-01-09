@@ -17,7 +17,7 @@ import {
   SidebarProvider,
   SidebarTrigger,
 } from '@/components/ui/sidebar';
-import { UserNav } from '@/components/user-nav';
+import { UserNavClient } from '@/components/user-nav-client';
 
 export default function DashboardLayout({
   children,
@@ -90,7 +90,7 @@ export default function DashboardLayout({
           <div className="flex-1">
              {/* Can add a global search here */}
           </div>
-          <UserNav />
+          <UserNavClient />
         </header>
         <main className="flex-1 overflow-y-auto p-4 lg:p-6 bg-background">
           {children}
