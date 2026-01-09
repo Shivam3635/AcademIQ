@@ -27,7 +27,7 @@ This project is developed using a structured issue-tracking workflow. Each featu
 - [x] **Initial:** Project Blueprint & Tech Stack Setup
 - [x] **Issue #1:** Centralized Student Dashboard UI (Placeholder Data)
 - [x] **Issue #2:** Enhanced Academic Calendar with Event Categorization
-- [ ] **Issue #3:** Fix Profile Icon Navigation (Redirect to Dashboard)
+- [x] **Issue #3:** Fix Profile Icon Navigation (Redirect to Dashboard)
 - [ ] **Issue #4:** Implement Secure Firebase Logout Logic
 - [ ] **Issue #5:** Dynamic User Identity (Name & Email from Auth)
 - [ ] **Issue #6:** Admin Panel with CRUD Functionality for Notices
