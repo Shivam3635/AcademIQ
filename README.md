@@ -1,3 +1,4 @@
+VIBE CODED PROJECT
 # AcademIQ: Unified Academic Information System 🎓
 **One Campus. One Platform.**
 
