@@ -4,6 +4,9 @@ export type Notice = {
   content: string;
   date: string;
   author: string;
+  category?: 'academic' | 'exam' | 'event' | 'urgent' | 'general';
+  priority?: 'normal' | 'urgent';
+  createdAt?: string;
 };
 
 export type AcademicEvent = {

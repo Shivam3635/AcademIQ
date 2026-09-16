@@ -4,6 +4,7 @@ import {
   CalendarDays,
   GraduationCap,
   LayoutDashboard,
+  ShieldCheck,
 } from 'lucide-react';
 
 import {
@@ -78,6 +79,17 @@ export default function DashboardLayout({
                 <Link href="/dashboard/schedule">
                   <GraduationCap />
                   <span>Exam Schedule</span>
+                </Link>
+              </SidebarMenuButton>
+            </SidebarMenuItem>
+            <SidebarMenuItem>
+              <SidebarMenuButton
+                asChild
+                tooltip="Admin Panel"
+              >
+                <Link href="/dashboard/admin">
+                  <ShieldCheck className="text-primary" />
+                  <span>Admin Panel</span>
                 </Link>
               </SidebarMenuButton>
             </SidebarMenuItem>
