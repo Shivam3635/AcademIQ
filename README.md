@@ -32,7 +32,7 @@ This project is developed using a structured issue-tracking workflow. Each featu
 - [x] **Issue #4:** Implement Secure Firebase Logout Logic
 - [x] **Issue #5:** Dynamic User Identity (Name & Email from Auth)
 - [x] **Issue #6:** Admin Panel with CRUD Functionality for Notices
-- [ ] **Issue #7:** Implementation of Dynamic Collapsible Sidebar
+- [x] **Issue #7:** Implementation of Dynamic Collapsible Sidebar
 
 ---
 *Note: Checkmarks indicate features that are fully implemented, tested, and pushed to the main branch.*
