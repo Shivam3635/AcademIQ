@@ -29,8 +29,8 @@ This project is developed using a structured issue-tracking workflow. Each featu
 - [x] **Issue #1:** Centralized Student Dashboard UI (Placeholder Data)
 - [x] **Issue #2:** Enhanced Academic Calendar with Event Categorization
 - [x] **Issue #3:** Fix Profile Icon Navigation (Redirect to Dashboard)
-- [ ] **Issue #4:** Implement Secure Firebase Logout Logic
-- [ ] **Issue #5:** Dynamic User Identity (Name & Email from Auth)
+- [x] **Issue #4:** Implement Secure Firebase Logout Logic
+- [x] **Issue #5:** Dynamic User Identity (Name & Email from Auth)
 - [ ] **Issue #6:** Admin Panel with CRUD Functionality for Notices
 - [ ] **Issue #7:** Implementation of Dynamic Collapsible Sidebar
 
